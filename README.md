@@ -1,2 +1,2 @@
 # HTML-Form
-Web developing HTML form task
+Tasks for web developing part of the introduction to industrial ICT engineering.<br>
